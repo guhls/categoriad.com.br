@@ -1,6 +1,11 @@
 // Componente React
 function Home() {
-    return <h1>Toda sujeira sai com uma simples lavagem com um sabonete cremoso natural, menos gliter :/</h1>
+    return <ul>
+        <li>"Vou comprar um cachorro ... --Maria, Luciana"</li>
+        <li>"Lei nº 96.701/2024 - Art. 1º É proibida a produção e consumo de brigadeiro sem o processo de enrolar e aplicação de granulado em todo o território nacional."</li>
+        <li>"May the force with be you --Francisco, Papa"</li>
+        <li>"num gosto -- Beatriz, Ana"</li>
+    </ul>
 }
 
 export default Home;
